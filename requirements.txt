@@ -1,0 +1,9 @@
+pandas
+matplotlib
+seaborn
+python-docx
+jupyter
+notebook
+scikit-learn
+openpyxl
+nbformat
